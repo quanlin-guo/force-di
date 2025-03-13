@@ -3,9 +3,21 @@
     {
       "path": "force-di",
       "default": true
+    },
+    {
+      "versionName": "ver 0.1",
+      "versionNumber": "0.1.0.NEXT",
+      "path": "force-di",
+      "default": false,
+      "package": "Force DI",
+      "versionDescription": ""
     }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "63.0"
+  "sourceApiVersion": "63.0",
+  "packageAliases": {
+    "Force DI": "0HogK00000001TxSAI",
+    "Force DI@0.1.0-1": "04tgK00000009g1QAA"
+  }
 }
